@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@nuxt-themes/docus': ^1.1.7
+  '@nuxt-themes/docus': ^1.1.8
   nuxt: ^3.0.0
 
 devDependencies:
-  '@nuxt-themes/docus': 1.1.7_nuxt@3.0.0
+  '@nuxt-themes/docus': 1.1.8_nuxt@3.0.0
   nuxt: 3.0.0
 
 packages:
@@ -438,8 +438,8 @@ packages:
       fastq: 1.14.0
     dev: true
 
-  /@nuxt-themes/docus/1.1.7_nuxt@3.0.0:
-    resolution: {integrity: sha512-O6Sgwd0WgSZJDWoRSJUWFs12ciUOnXhyjD9AKzZsa3ut4sPxsCRBs9lLklmrfIihRirRt+t5K5Oz64ZVrBLggQ==}
+  /@nuxt-themes/docus/1.1.8_nuxt@3.0.0:
+    resolution: {integrity: sha512-V+j28vfKbBZbSg5RIFwJE/Td+ZWgaU9RhNBgjaEXFFZpMHSYYAIFLRrL8zFSpi0aeXAipJyo6WkWuyQ9bORN+g==}
     dependencies:
       '@nuxt-themes/elements': 0.2.3
       '@nuxt-themes/tokens': 1.2.2

@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "nuxt": "^3.0.0",
-    "@nuxt-themes/docus": "^1.1.7"
+    "@nuxt-themes/docus": "^1.1.8"
   },
   "pnpm": {
     "peerDependencyRules": {
