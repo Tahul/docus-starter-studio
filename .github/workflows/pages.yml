@@ -1,5 +1,6 @@
 
-name: Deploy Nuxt to Pages
+name: nuxt-build
+run-name: nuxt build
 
 on:
   # Runs on pushes targeting the default branch
