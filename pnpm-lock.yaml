@@ -480,7 +480,7 @@ packages:
     dependencies:
       '@nuxtjs/color-mode': 3.2.0
       '@vueuse/core': 9.9.0
-      pinceau: 0.9.14
+      pinceau: 0.9.15
     transitivePeerDependencies:
       - '@vue/composition-api'
       - postcss
@@ -4587,8 +4587,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /pinceau/0.9.14:
-    resolution: {integrity: sha512-lxT/9brU0EpSBoSVSVWJqbXNMVkTWCs5m6g33csTv7pLCcR1Lfzi+VAV3QTGY3ZNsz/Iye2n4V9Z8iBsNaZvYQ==}
+  /pinceau/0.9.15:
+    resolution: {integrity: sha512-TiVph/tuJbsV5LicAxs91c/Ug5wddXED2MiL+LLiivX+IPp1PSIc7vzME5EkiLKA41ar4v3zmJ9PwU6vHSseXQ==}
     dependencies:
       '@unocss/reset': 0.48.0
       '@volar/vue-language-core': 1.0.18
