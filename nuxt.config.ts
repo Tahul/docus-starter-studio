@@ -1,4 +1,4 @@
 export default defineNuxtConfig({
   extends: ['@nuxt-themes/docus'],
-  modules: ['@nuxthq/studio']
+  modules: ['tahul-nuxt-hq-studio-test']
 })

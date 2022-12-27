@@ -3,10 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   '@nuxt-themes/docus': ^1.2.4
   nuxt: ^3.0.0
+  tahul-nuxt-hq-studio-test: 0.0.1
 
 devDependencies:
   '@nuxt-themes/docus': 1.2.5_nuxt@3.0.0
   nuxt: 3.0.0
+  tahul-nuxt-hq-studio-test: 0.0.1
 
 packages:
 
@@ -5770,6 +5772,23 @@ packages:
       csso: 4.2.0
       picocolors: 1.0.0
       stable: 0.1.8
+    dev: true
+
+  /tahul-nuxt-hq-studio-test/0.0.1:
+    resolution: {integrity: sha512-MK04aXhDqvfFmTbbRiZzmyB5vuyorxOakhibllVJGxF3ac2xYj2PSc6h8Ib37tHXWYI/jCjx7SCXOZiWXnewzA==}
+    dependencies:
+      '@nuxt/kit': 3.0.0
+      '@nuxt/schema': 3.0.0
+      defu: 6.1.1
+      nuxt-component-meta: 0.4.1
+      nuxt-config-schema: 0.3.7
+      socket.io-client: 4.5.4
+      ufo: 1.0.1
+    transitivePeerDependencies:
+      - bufferutil
+      - rollup
+      - supports-color
+      - utf-8-validate
     dev: true
 
   /tapable/1.1.3:
