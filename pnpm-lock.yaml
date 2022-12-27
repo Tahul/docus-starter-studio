@@ -3,12 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   '@nuxt-themes/docus': ^1.2.4
   nuxt: ^3.0.0
-  tahul-nuxt-hq-studio-test: 0.0.1
+  tahul-nuxt-hq-studio-test: 0.0.2
 
 devDependencies:
   '@nuxt-themes/docus': 1.2.5_nuxt@3.0.0
   nuxt: 3.0.0
-  tahul-nuxt-hq-studio-test: 0.0.1
+  tahul-nuxt-hq-studio-test: 0.0.2
 
 packages:
 
@@ -482,7 +482,7 @@ packages:
     dependencies:
       '@nuxtjs/color-mode': 3.2.0
       '@vueuse/core': 9.9.0
-      pinceau: 0.9.16
+      pinceau: 0.9.17
     transitivePeerDependencies:
       - '@vue/composition-api'
       - postcss
@@ -4589,8 +4589,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /pinceau/0.9.16:
-    resolution: {integrity: sha512-n9VdjYG1JGotoMXy3Ecjo+++uPEC7brG/B79J5SQyyzmkSIQGk8l/fiivD0g7D01+kg6SPwVKtdNtydx7oQDKg==}
+  /pinceau/0.9.17:
+    resolution: {integrity: sha512-k3K3MjF1HHdVo/4nEjelKWWOKlS6ZvHjWZvtoQHgst4v9XHVlGtFenMU5A3Hi+kChSCUMPJg4Ijcjt8N6m2bug==}
     dependencies:
       '@unocss/reset': 0.48.0
       '@volar/vue-language-core': 1.0.18
@@ -5774,8 +5774,8 @@ packages:
       stable: 0.1.8
     dev: true
 
-  /tahul-nuxt-hq-studio-test/0.0.1:
-    resolution: {integrity: sha512-MK04aXhDqvfFmTbbRiZzmyB5vuyorxOakhibllVJGxF3ac2xYj2PSc6h8Ib37tHXWYI/jCjx7SCXOZiWXnewzA==}
+  /tahul-nuxt-hq-studio-test/0.0.2:
+    resolution: {integrity: sha512-289ywJKQVMUvhowmfar696Ny5czG0Hi/RlC4VcbaQvcbc+FdbB1rCkYfT7hatEfNNS/nORSGNMmk6E2lAQATEQ==}
     dependencies:
       '@nuxt/kit': 3.0.0
       '@nuxt/schema': 3.0.0
