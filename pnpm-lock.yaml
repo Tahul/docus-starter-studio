@@ -3,12 +3,12 @@ lockfileVersion: 5.4
 specifiers:
   '@nuxt-themes/docus': ^1.2.4
   nuxt: ^3.0.0
-  tahul-nuxt-hq-studio-test: 0.0.2
+  tahul-nuxt-hq-studio-test: 0.0.3
 
 devDependencies:
   '@nuxt-themes/docus': 1.2.5_nuxt@3.0.0
   nuxt: 3.0.0
-  tahul-nuxt-hq-studio-test: 0.0.2
+  tahul-nuxt-hq-studio-test: 0.0.3
 
 packages:
 
@@ -5774,8 +5774,8 @@ packages:
       stable: 0.1.8
     dev: true
 
-  /tahul-nuxt-hq-studio-test/0.0.2:
-    resolution: {integrity: sha512-289ywJKQVMUvhowmfar696Ny5czG0Hi/RlC4VcbaQvcbc+FdbB1rCkYfT7hatEfNNS/nORSGNMmk6E2lAQATEQ==}
+  /tahul-nuxt-hq-studio-test/0.0.3:
+    resolution: {integrity: sha512-rTc7XGm8itF9Yoppjwlnu4SWH/XOcBsFAlkVcDb6SBdngvkSgcudeg+yj6hgtG5zY9N8+rucfMrzXCkvM7Q3MA==}
     dependencies:
       '@nuxt/kit': 3.0.0
       '@nuxt/schema': 3.0.0
