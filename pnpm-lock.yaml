@@ -5,7 +5,7 @@ specifiers:
   nuxt: ^3.0.0
 
 devDependencies:
-  '@nuxt-themes/docus': 1.2.4_nuxt@3.0.0
+  '@nuxt-themes/docus': 1.2.5_nuxt@3.0.0
   nuxt: 3.0.0
 
 packages:
@@ -440,8 +440,8 @@ packages:
       fastq: 1.14.0
     dev: true
 
-  /@nuxt-themes/docus/1.2.4_nuxt@3.0.0:
-    resolution: {integrity: sha512-q9pLsnrvHbGyssNPzzp3syDPt0o79krkq16S67iIWTuMebL90b5sP6S78z8ytDq/v9Ck8Lmaj1h5RkoIbtxMEw==}
+  /@nuxt-themes/docus/1.2.5_nuxt@3.0.0:
+    resolution: {integrity: sha512-nuwGQqVG33bU+lRMnnnB0pRcCbLaPiHnohY6iulh+6wbH2H6ThDjciXEdOhE8+EY4LW9S2RGT4w9lVwsRAlyww==}
     dependencies:
       '@nuxt-themes/elements': 0.3.3
       '@nuxt-themes/tokens': 1.4.4
@@ -480,7 +480,7 @@ packages:
     dependencies:
       '@nuxtjs/color-mode': 3.2.0
       '@vueuse/core': 9.9.0
-      pinceau: 0.9.15
+      pinceau: 0.9.16
     transitivePeerDependencies:
       - '@vue/composition-api'
       - postcss
@@ -4587,8 +4587,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /pinceau/0.9.15:
-    resolution: {integrity: sha512-TiVph/tuJbsV5LicAxs91c/Ug5wddXED2MiL+LLiivX+IPp1PSIc7vzME5EkiLKA41ar4v3zmJ9PwU6vHSseXQ==}
+  /pinceau/0.9.16:
+    resolution: {integrity: sha512-n9VdjYG1JGotoMXy3Ecjo+++uPEC7brG/B79J5SQyyzmkSIQGk8l/fiivD0g7D01+kg6SPwVKtdNtydx7oQDKg==}
     dependencies:
       '@unocss/reset': 0.48.0
       '@volar/vue-language-core': 1.0.18
