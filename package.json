@@ -11,7 +11,7 @@
   "devDependencies": {
     "nuxt": "^3.0.0",
     "@nuxt-themes/docus": "^1.2.4",
-    "tahul-nuxt-hq-studio-test": "0.0.3"
+    "tahul-nuxt-hq-studio-test": "0.0.4"
   },
   "pnpm": {
     "peerDependencyRules": {
