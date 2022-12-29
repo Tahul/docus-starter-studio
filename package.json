@@ -9,9 +9,11 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
-    "nuxt": "^3.0.0",
     "@nuxt-themes/docus": "^1.2.4",
-    "tahul-nuxt-hq-studio-test": "0.0.4"
+    "nuxt": "^3.0.0",
+    "tahul-nuxt-hq-studio-test": "0.0.4",
+    "firebase": "^9.15.0",
+    "firebase-tools": "^11.19.0"
   },
   "pnpm": {
     "peerDependencyRules": {
