@@ -7,6 +7,9 @@ export default defineAppConfig({
       twitter: 'nuxt_themes',
       github: 'nuxt-themes/docus',
     },
+    layout: {
+      fluid: false
+    },
     aside: {
       level: 0,
       exclude: []
