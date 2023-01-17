@@ -6,10 +6,11 @@
     "dev": "nuxi dev",
     "build": "nuxi build",
     "generate": "nuxi generate",
-    "preview": "nuxi preview"
+    "preview": "nuxi preview",
+    "analyze": "nuxi analyze"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.4.4",
+    "@nuxt-themes/docus": "^1.4.6",
     "nuxt": "^3.0.0"
   },
   "pnpm": {
