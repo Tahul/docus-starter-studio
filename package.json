@@ -10,7 +10,7 @@
     "analyze": "nuxi analyze"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.4.6",
+    "@nuxt-themes/docus": "^1.4.7",
     "nuxt": "^3.0.0"
   },
   "pnpm": {
