@@ -9,9 +9,12 @@
     "preview": "nuxi preview",
     "analyze": "nuxi analyze"
   },
+  "resolutions": {
+    "@nuxthq/studio": "npm:studio-module-tahul-test@latest"
+  },
   "devDependencies": {
     "@nuxt-themes/docus": "^1.10.1",
-    "nuxt": "^3.4.1"
+    "nuxt": "^3.4.2"
   },
   "pnpm": {
     "peerDependencyRules": {
