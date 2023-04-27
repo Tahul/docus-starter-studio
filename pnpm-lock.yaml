@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 overrides:
-  '@nuxthq/studio': npm:studio-module-tahul-test@latest
+  '@nuxthq/studio': npm:studio-module-tahul-test@0.11.0-test.1
 
 specifiers:
   '@nuxt-themes/docus': ^1.10.1
@@ -661,7 +661,7 @@ packages:
       '@nuxt-themes/tokens': 1.9.1
       '@nuxt-themes/typography': 0.11.0
       '@nuxt/content': 2.6.0
-      '@nuxthq/studio': /studio-module-tahul-test/0.11.0
+      '@nuxthq/studio': /studio-module-tahul-test/0.11.0-test.1
       '@vueuse/nuxt': 9.13.0_nuxt@3.4.2
     transitivePeerDependencies:
       - '@azure/app-configuration'
@@ -5769,8 +5769,8 @@ packages:
       acorn: 8.8.2
     dev: true
 
-  /studio-module-tahul-test/0.11.0:
-    resolution: {integrity: sha512-umoiBvAM7PXqS1ZKiEBdi0givSbK3+ZuM6Z36mNjIU91WK+0rOzfweR/1JN52CLh2xM9jEDnbNc5pr6YXpVJMQ==}
+  /studio-module-tahul-test/0.11.0-test.1:
+    resolution: {integrity: sha512-ZbEtF8VtZr/rQjaln2m6N4i4s0FRRd2wPLrjXXZx7m7En4HWWMhDQA+z1JTWRUpCsgEVRY2rw2HDnTg+h/iL0g==}
     dependencies:
       '@nuxt/kit': 3.4.2
       defu: 6.1.2
