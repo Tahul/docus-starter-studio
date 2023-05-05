@@ -7,7 +7,7 @@ export default defineAppConfig({
     },
 
     main: {
-      fluid: true
+      fluid: false
     }
   }
 })
