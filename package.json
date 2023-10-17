@@ -13,10 +13,8 @@
     "@nuxthq/studio": "npm:studio-module-tahul-test@0.11.0-test.1"
   },
   "devDependencies": {
-    "@nuxt-themes/docus": "^1.11.1",
-    "@nuxt/content": "^2.7.0",
-    "@nuxthq/studio": "^0.13.2",
-    "nuxt": "^3.6.1"
+    "@nuxt-themes/docus": "^1.15.0",
+    "nuxt": "^3.7.4"
   },
   "pnpm": {
     "peerDependencyRules": {
